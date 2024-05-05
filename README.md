@@ -1,5 +1,5 @@
 
-# Job Search Job Finder App UI Design
+# Job Search App UI Design
 ### App UI's
 <img  alt="App Ui" src="https://github.com/hamdyhaggag/Job-Search-UI/blob/master/assets/img-ui.png">
 
