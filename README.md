@@ -1,16 +1,56 @@
-# job_search_ui
+# Job Search Job Finder App UI Design
+### App UI's
+<img  alt="App Ui" src="https://github.com/hamdyhaggag/Job-Search-UI/blob/master/assets/img-ui.png">
 
-A new Flutter project.
+|--|--|
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Home Screen**
+- **Job Details Screen**
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+```
+git clone [https://github.com/hamdyhaggag/Job-Search-UI.git])
+```
+
+2. Navigate to the project directory:
+
+```
+cd Job-Search-UI
+```
+
+3. Install dependencies:
+
+```
+flutter pub get
+```
+
+4. Run the app:
+
+```
+flutter run
+```
+
+## Technologies Used
+
+- Flutter
+- Dart
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+For any inquiries or feedback, please contact Hamdy Haggag (mailto:hamdyhaggag74@gmail.com).
